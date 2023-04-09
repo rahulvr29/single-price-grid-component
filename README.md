@@ -6,7 +6,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
