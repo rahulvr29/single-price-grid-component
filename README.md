@@ -24,8 +24,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://github.com/rahulvr29/single-price-grid-component.git
+- Live Site URL: https://beamish-cannoli-a048ab.netlify.app
+
+
 
 ### Built with
 
